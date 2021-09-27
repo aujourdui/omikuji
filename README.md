@@ -1,6 +1,6 @@
 # Omikuji
 
-It is an application today's luck.
+It is an application to check today's luck.
 
 大吉 = a very happy day
 
